@@ -1,0 +1,24 @@
+{
+    "Codeine": {
+        "Acetaminophen": 0.909,
+        "Codeine Phosphate": 0.0909 
+    },
+
+    "Fentanyl": {
+        "Fentanyl": 1
+    },
+
+    "Vicodin": {
+        "Fentanyl": 0.004975124378109,
+        "Acetominophen": 0.995024875621891
+    },
+
+    "Hydrocone Acetominophen": {
+        "Hydrocodone bitartrate": 0.004975124378109,
+        "Acetominophen": 0.995024875621891
+    },
+
+    "Hydromorphone hydrochloride" : {
+        
+    }
+}

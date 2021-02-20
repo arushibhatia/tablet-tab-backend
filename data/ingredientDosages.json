@@ -1,0 +1,38 @@
+{
+    "Codeine Phosphate": {
+        
+        "doseSizePerInterval": 60,
+        "dosesPerInterval": 1,
+        "interval": 4,
+        "maxiumumDaily": 240
+    },
+
+    "Acetaminophen": {
+        "doseSizePerInterval": 1000,
+        "dosesPerInterval": 1,
+        "interval": 6,
+        "maxiumumDaily": 4000
+        
+    },
+
+    "Fentanyl": {
+        "doseSizePerInterval": 0.1,
+        "dosesPerInterval": 2,
+        "interval": 4,
+        "maxiumumDaily": 0.6
+        
+    },
+
+    "Hydrocodone bitartrate": {
+        "doseSizePerInterval": 2.5,
+        "dosesPerInterval": 2,
+        "interval": 6,
+        "maxiumumDaily": 20
+    }
+
+    
+
+
+
+
+}
