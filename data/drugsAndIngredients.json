@@ -1,4 +1,8 @@
 {
+    "Tylenol": {
+        "Acetaminophen": 1
+    },
+
     "Codeine": {
         "Acetaminophen": 0.909,
         "Codeine Phosphate": 0.0909 
@@ -19,6 +23,27 @@
     },
 
     "Hydromorphone hydrochloride" : {
-        
+        "Hydromorphone hydrochloride": 1
+    },
+
+    "Meperidine hydrochloride": {
+        "Meperidine hydrochloride" : 1
+    }, 
+
+    "Demerol" :{
+        "Meperidine hydrochloride" : 1
+    },
+
+    "Arymo ER" :{
+        "Morphine" : 1
+    },
+
+    "Morphine sulfate" :{
+        "Morphine" : 1
+    },
+
+    "Oxycodone hydrochloride": {
+        "Oxycodone hydrochloride": 1
     }
-}
+
+}  

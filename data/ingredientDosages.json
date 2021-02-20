@@ -28,9 +28,38 @@
         "dosesPerInterval": 2,
         "interval": 6,
         "maxiumumDaily": 20
+    },
+
+    "Hydromorphone hydrochloride": {
+        "doseSizePerInterval": 2,
+        "dosesPerInterval": 2,
+        "interval": 6,
+        "maxiumumDaily": 24
+    },
+
+    "Meperidine hydrochloride": {
+        "doseSizePerInterval": 50,
+        "dosesPerInterval": 3,
+        "interval": 4,
+        "maxiumumDaily": 900
+    },
+
+    "Morphine": {
+        "doseSizePerInterval": 10,
+        "dosesPerInterval": 1,
+        "interval": 4,
+        "maxiumumDaily": 60
+    },
+
+    "Oxycodone hydrochloride": {
+        "doseSizePerInterval": 10,
+        "dosesPerInterval": 1,
+        "interval": 12,
+        "maxiumumDaily": 20
     }
 
-    
+
+
 
 
 
