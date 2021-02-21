@@ -131,6 +131,10 @@ function areCurrentAmountsOkayDaily(ingredientToCheck){
     return true;
 }
 
+function sendDataToDisplayWeb(){ //called when webpage is loaded
+    return currentMG;
+}
+
 
 
  
